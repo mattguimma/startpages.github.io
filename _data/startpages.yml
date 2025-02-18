@@ -586,3 +586,10 @@
   author: "Vyris"
   source: "https://github.com/Vyris/jsh"
   col-size: col-1
+
+  - image_url: /media/images/mattguimmaSP.png
+  full_path: /startpages/mattguimmasp/
+  title: "Start Point"
+  author: "mattguimma"
+  source: "https://github.com/mattguimma/startpage"
+  col-size: col-1
